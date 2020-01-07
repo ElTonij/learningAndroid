@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dice-Nested-Completed</string>
+    <string name="button_text">Roll</string>
+    <string name="description_button">Roll the Dice</string>
+    <string name="casino_logo">Casino Logo</string>
+    <string name="the_left_dice">The left Dice</string>
+    <string name="the_right_dice">The right Dice</string>
+    <string name="left_dice">Left Dice</string>
+    <string name="right_dice">Right Dice</string>
+</resources>

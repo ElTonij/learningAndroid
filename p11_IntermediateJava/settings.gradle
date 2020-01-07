@@ -1,0 +1,2 @@
+include ':app', ':javapractice', ':car', ':carpractice'
+rootProject.name='IntermediateJava'

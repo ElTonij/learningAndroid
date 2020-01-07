@@ -1,0 +1,2 @@
+include ':app', ':javapractice', ':couldthisbelove', ':bmi'
+rootProject.name='p6_beginningJava'
